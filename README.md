@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-I'm an IT Systems Engineer with 4+ years of experience in corporate and industrial environments. I specialize in **AI-powered automation with n8n**, Active Directory administration, endpoint security, and GxP/FDA regulatory compliance.
+I'm an IT Systems Engineer with 2+ years of experience in corporate and industrial environments. I specialize in **AI-powered automation with n8n**, Active Directory administration, endpoint security, and GxP/FDA regulatory compliance.
 
 Currently working at **Grupo Heisecke** (FUSQUIM pharmaceutical plant), where I build real production systems and automation workflows.
 
