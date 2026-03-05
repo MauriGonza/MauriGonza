@@ -79,13 +79,6 @@ Currently working at **Grupo Heisecke** (FUSQUIM pharmaceutical plant), where I 
 
 ---
 
-## 📊 GitHub Stats
-
-![Mauricio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MauriGonza&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauriGonza&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gonzlezmauri)
