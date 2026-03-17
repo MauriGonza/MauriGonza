@@ -1,7 +1,7 @@
 # Hi, I'm Mauricio González 👋
 
 **IT Systems Engineer · AI Automation · Active Directory · GxP/FDA**  
-📍 Asunción, Paraguay · 🌐 Open to remote positions worldwide
+📍 Asunción, Paraguay · 
 
 ---
 
@@ -90,7 +90,7 @@ Currently working at **Grupo Heisecke** (FUSQUIM pharmaceutical plant), where I 
 # Hola, soy Mauricio González 👋
 
 **IT Systems Engineer · Automatización IA · Active Directory · GxP/FDA**  
-📍 Asunción, Paraguay · 🌐 Abierto a posiciones remotas
+📍 Asunción, Paraguay · 
 
 ---
 
